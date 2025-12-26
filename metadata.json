@@ -1,0 +1,7 @@
+{
+  "name": "Prime Roofing Voice AI",
+  "description": "A real-time AI voice receptionist for Prime Roofing, handling after-hours calls for roof repairs, inspections, and emergency services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
